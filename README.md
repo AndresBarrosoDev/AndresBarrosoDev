@@ -1,4 +1,6 @@
 ### Hola. Bievenido mi GitHub 👋
+Aqui podrán encontrar los ultimos proyectos en los que he trabajado. Si el proyecto es web, en el README.md podrás encontrar una vista previa de como quedó.
+¡Muchas gracias por tu visita!
 
 <!--
 **AndresBarrosoB/AndresBarrosoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
