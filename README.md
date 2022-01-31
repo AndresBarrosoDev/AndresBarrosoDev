@@ -1,5 +1,5 @@
-### Hola. Bievenido mi GitHub 👋
-Aqui podrán encontrar los ultimos proyectos en los que he trabajado. Si el proyecto es web, en el README.md podrás encontrar una vista previa de como quedó.
+### Hola. Bievenido a mi GitHub 👋
+Aqui podrás encontrar los ultimos proyectos en los que he trabajado. Si el proyecto es web, en el README.md podrás encontrar una vista previa de como quedó.
 ¡Muchas gracias por tu visita!
 
 <!--
